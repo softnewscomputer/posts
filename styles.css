@@ -49,7 +49,7 @@
 
 
 .softnewsdml.mdl-card {
-  width: 320px;
+  width: auto;
   height: 320px;
 }
 .softnewsdml > .mdl-card__img1 {
